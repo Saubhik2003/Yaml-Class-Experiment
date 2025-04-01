@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/33db17cd-e66e-4dc9-b00b-2d58e3c052a0)# YAML Data Processing Experiment
+# YAML Data Processing Experiment
 
 This project demonstrates how to work with YAML files in Python, specifically focusing on processing student data. The application allows you to load student information from a YAML file, display all students, and filter them based on their GPA.
 
